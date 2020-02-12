@@ -78,3 +78,5 @@ persistence:
   size: 1Gi
 
 podAnnotations: {}
+
+deploymentAnnotations: {}
